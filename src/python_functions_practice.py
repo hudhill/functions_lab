@@ -38,3 +38,6 @@ def reverse_string(string):
 
 def fahrenheit_to_celsius(fahrenheit):
     return (fahrenheit - 32) / 1.8
+
+def say_hello():
+    print("hello")
