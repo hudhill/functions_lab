@@ -1,6 +1,7 @@
 def return_10():
     return 10
 # dootdootdoot
+
 def add(num_1, num_2):
     return num_1 + num_2
 
@@ -38,3 +39,6 @@ def reverse_string(string):
 
 def fahrenheit_to_celsius(fahrenheit):
     return (fahrenheit - 32) / 1.8
+
+def say_hello():
+    print("hello")
